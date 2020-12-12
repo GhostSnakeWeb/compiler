@@ -1,0 +1,7 @@
+/*
+  Идентификаторы и целые числа
+ */
+number = 142857;
+new_number = number*2;
+new_number2 = new_number+number;
+print(new_number, "\n");
